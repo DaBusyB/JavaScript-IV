@@ -1,4 +1,4 @@
-# JavaScript IV
+<!-- # JavaScript IV
 
 This challenge focuses on classes in JavaScript using the new `class` keyword.
 
@@ -28,10 +28,9 @@ const fred = new Person({
 ## `prototype-refactor` - Take existing code and make it modern.
 
 * You're going to work with your prototypes assignment you built out yesterday.
-* `Challenge:` **Convert** all of your constructors into ES6 Classes using the `class` and `extends` keywords. You should be able to run your same logs and they should build out the proper expected behaviors.
+* `Challenge:` **Convert** all of your constructors into ES6 Classes using the `class` and `extends` keywords. You should be able to run your same logs and they should build out the proper expected behaviors. -->
 
 ## `lambda-classes` - We need a roster of Lambda School personnel. Build it!
-
 * We have a school to build here! This project will get you used to thinking about classes in JavaScript and building them from a brand new data set.
 * Lambda personnel can be broken down into three different types of `people`.
   * **Instructors** - extensions of Person
@@ -58,8 +57,7 @@ const fred = new Instructor({
 * Person receives `speak` as a method.
 * This method logs out a phrase `Hello my name is Fred, I am from Bedrock` where `name` and `location` are the object's own props -->
 
-#### Instructor
-
+<!-- #### Instructor
 * Now that we have a Person as our base class, we'll build our Instructor class.
 * Instructor uses the same attributes that have been set up by Person
 * Instructor has the following unique props:
@@ -68,7 +66,7 @@ const fred = new Instructor({
   * `catchPhrase` i.e. `Don't forget the homies`
 * Instructor has the following methods:
   * `demo` receives a `subject` string as an argument and logs out the phrase 'Today we are learning about {subject}' where subject is the param passed in.
-  * `grade` receives a `student` object and a `subject` string as arguments and logs out '{student.name} receives a perfect score on {subject}'
+  * `grade` receives a `student` object and a `subject` string as arguments and logs out '{student.name} receives a perfect score on {subject}' -->
 
 #### Student
 
